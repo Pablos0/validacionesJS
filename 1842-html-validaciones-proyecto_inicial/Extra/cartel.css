@@ -1,0 +1,79 @@
+.banner {
+    position: relative;
+}
+
+#bolis {
+    width: 1000px;
+    filter: brightness(55%);
+    height: 500px;
+}
+
+.sabores {
+    
+    color: whitesmoke;
+    /*font-family: 'Dancing Script', cursive;*/
+    font-family: 'Bebas Neue', sans-serif; 
+    position: absolute;
+    left: 15%;
+    top: 55%;
+    font-size: 40px;
+    font-weight: 100;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.li1 {
+    padding-bottom: 20px;
+    list-style: none;
+}
+
+.sabores1 {
+    
+    color: whitesmoke;
+    /*font-family: 'Dancing Script', cursive;*/
+    font-family: 'Bebas Neue', sans-serif;
+    position: absolute;
+    left: 35%;
+    top: 55%;
+    font-size: 40px;
+    font-weight: 100;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.li2 {
+    padding-bottom: 20px;
+    list-style: none;
+}
+
+.precio {
+    
+    display: flex;
+    align-self: flex-end;
+    height: 30%;
+    width: 100px;
+    position: absolute;
+    left: 55%;
+    top: 20%;
+}
+
+.precio1 {
+    color: whitesmoke;
+    /*font-family: 'Dancing Script', cursive;*/
+    font-family: 'Bebas Neue', sans-serif;
+    position: absolute;
+    left: 59%;
+    top: 50%;
+    font-size: 40px;
+    font-weight: 100;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.li3 {
+    padding-bottom: 10px;
+    list-style: none;
+}
